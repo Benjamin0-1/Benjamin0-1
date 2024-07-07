@@ -21,7 +21,7 @@ Full Stack Developer specializing in backend development. Knowledgeable in GIT, 
 
 **Technologies**:  
 Front: JavaScript | Back: Node.js, Express.js | Database: PostgreSQL and Sequelize  
-[Deployment Link](https://pf-front-chi.vercel.app/) | Default admin user: user1 | Password: 12345678
+
 
 ## Experience
 
