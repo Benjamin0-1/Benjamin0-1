@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benjamin</h1>
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Full stack Developer</h3>
 
 <img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="600"/>
 
@@ -7,7 +7,7 @@
 
 ## About Me
 
-Full Stack Developer specializing in backend development. Knowledgeable in GIT, data structures, algorithms, relational databases like MySQL, Node.js with Express.js, Python, and intermediate-level React.js. Possesses problem-solving, communication, and adaptability skills. English Level: C2 (Advanced). Available for relocation.
+Full Stack Developer specializing in backend development. Knowledgeable in GIT, data structures, algorithms, relational databases like PostgreSQL, Node.js with Express.js, Python, and intermediate-level React.js. I posses problem-solving, communication, and adaptability skills. English Level: C2 (Advanced). Available for relocation.
 
 ## Projects
 
