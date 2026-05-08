@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Benjamin</h1>
-<h3 align="center">Full stack Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
 <img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="600"/>
 
