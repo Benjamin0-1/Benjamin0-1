@@ -77,3 +77,4 @@ Front: JavaScript | Back: Node.js, Express.js | Database: PostgreSQL and Sequeli
 </p>
 
 )
+Last updated - 2024
